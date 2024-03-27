@@ -47,7 +47,6 @@ public class Rectangle {
 	
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Rectangle r1 = new Rectangle(3.0, 4.0);
 		r1.Perimeter();
 		r1.Area();
