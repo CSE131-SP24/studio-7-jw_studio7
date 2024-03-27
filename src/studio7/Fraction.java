@@ -49,6 +49,12 @@ public class Fraction {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Fraction f0 = new Fraction (3.0, 4.0);
+		Fraction f1 = new Fraction (1.0, 3.0);
+		System.out.println(f0);
+		System.out.println(f1);
+		System.out.println(f0.add(f1));
+		System.out.println(f0.multiply(f1));
+		
 		
 
 	}
